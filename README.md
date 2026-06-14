@@ -14,3 +14,8 @@ LostLink is a lightweight, full-stack web application designed to help universit
 
 ## 💻 Local Setup Instructions
 
+1. **Clone the repository:**
+```bash
+   git clone [https://github.com/malavikasanthikrishna06-coder/LostLink.git](https://github.com/malavikasanthikrishna06-coder/LostLink.git)
+   cd LostLink
+
