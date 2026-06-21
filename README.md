@@ -1,21 +1,36 @@
 # 🔍 LostLink - Campus Lost & Found Platform
 
-LostLink is a lightweight, full-stack web application designed to help university campuses efficiently track and match lost items with their finders. Built with Python, Flask, and SQLite3, it provides an intuitive interface for students and staff to log incidents and view cross-referenced item matches in real time.
+LostLink is a lightweight full-stack web application designed to help university campuses efficiently track, report, and match lost and found items in real time. It improves campus item recovery through a simple and structured reporting system.
+
+---
 
 ## 🚀 Features
-* **Dual-Column Matches Board:** Real-time side-by-side view of reported lost and found items.
-* **Persistent Local Storage:** Driven by an optimized SQLite3 database backend.
-* **Responsive Web Forms:** Clean, centered web layouts with custom stylized input components.
+
+- 📌 **Lost & Found Reporting System**  
+  Users can report lost or found items through simple web forms.
+
+- 🔄 **Real-Time Matching Board**  
+  Displays side-by-side matching of lost and found items for quick identification.
+
+- 🗄️ **Persistent Database Storage**  
+  Uses SQLite3 to store and manage all reported data locally.
+
+- 📱 **Responsive UI**  
+  Clean and minimal interface optimized for both desktop and mobile usage.
+
+---
 
 ## 🛠️ Tech Stack
-* **Backend:** Python, Flask
-* **Database:** SQLite3
-* **Frontend:** HTML5, CSS3
 
-## 💻 Local Setup Instructions
+- **Backend:** Python, Flask  
+- **Database:** SQLite3  
+- **Frontend:** HTML5, CSS3  
 
-1. **Clone the repository:**
+---
+
+## 💻 Local Setup
+
+### 1. Clone the repository
 ```bash
-   git clone [https://github.com/malavikasanthikrishna06-coder/LostLink.git](https://github.com/malavikasanthikrishna06-coder/LostLink.git)
-   cd LostLink
-
+git clone https://github.com/malavikasanthikrishna06-coder/LostLink.git
+cd LostLink
